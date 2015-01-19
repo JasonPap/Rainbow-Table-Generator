@@ -1,5 +1,11 @@
+/*
+ *  Project: Rainbow Table Generator
+ *  File:   RainbowTable.h
+ *  Author: Jason Papapanagiotakis
+ *  Github: https://github.com/JasonPap/Rainbow-Table-Generator
+ */
 #include <unordered_set>
-#include "blake_ref.h"
+#include "../Blake/blake_ref.h"
 class RainbowTable;
 class Find_Password_Args
 {

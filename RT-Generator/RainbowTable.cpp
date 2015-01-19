@@ -1,3 +1,9 @@
+/*
+ *  Project: Rainbow Table Generator
+ *  File:   RainbowTable.cpp
+ *  Author: Jason Papapanagiotakis
+ *  Github: https://github.com/JasonPap/Rainbow-Table-Generator
+ */
 #include <iostream>
 #include <stdlib.h>
 #include <unordered_map>
